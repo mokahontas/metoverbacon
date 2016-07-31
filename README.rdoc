@@ -1,0 +1,9 @@
+== README
+
+Met Over Bacon is a dating application for people who love bacon.
+
+Built with Ruby on Rails, bootstrap, acts-as-votable gem.
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.

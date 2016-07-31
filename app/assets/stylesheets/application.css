@@ -18,12 +18,12 @@ html, body {
   padding: 0;
 }
 body {
-  background: image-url('background.jpg');
+  background: url('background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
  }
 .jumbotron {
-  background: image-url('bacon2.jpg');
+  background: url('bacon2.jpg');
   opacity: 0.8;
   margin-bottom: 0 !important;
   height: 100%;
